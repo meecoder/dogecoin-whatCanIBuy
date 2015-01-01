@@ -17,6 +17,7 @@ strong {
     margin-top: 0;
     padding-top: 0;
     top: 130px;
+    padding-bottom: 50px;
 }
 input {
     -moz-appearance: none;
@@ -30,4 +31,41 @@ input {
     width: 120px;
     font-family: 'Comic Neue';
     font-weight: 700;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+a {
+    font-family: 'Comic Neue', sans-serif;
+    color: #93ccea;
+    text-decoration: none;
+    font-size: 25px;
+    text-align: left;
+    float: left;
+    padding-bottom: 0;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 30px;
+    clear: both;
+    
+}
+div {
+    padding-top: 50px;
+    width: 38%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 70px;
+}
+p {
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 25px;
+    font-weight: 300;
+    color: #333;
+    text-align: right;
+    float: right;
+    padding-right: 150px;
+    padding-top: 7px;
+    display: inline-block;
 }
