@@ -1,0 +1,33 @@
+body {
+    background: #FF007F;
+}
+h1 {
+    font-family: 'Comic Neue', sans-serif;
+    font-weight: 700;
+    font-size: 60px;
+    text-align: center;
+    padding-top: 25px;
+}
+strong {
+    font-weight: 700;
+    font-size: 45px;
+    text-align: center;
+    left: 31.5%;
+    position: absolute;
+    margin-top: 0;
+    padding-top: 0;
+    top: 130px;
+}
+input {
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    height: 45px;
+    border: 0;
+    top: -5px;
+    position: relative;
+    text-align: center;
+    font-size: 35px;
+    width: 120px;
+    font-family: 'Comic Neue';
+    font-weight: 700;
+}
