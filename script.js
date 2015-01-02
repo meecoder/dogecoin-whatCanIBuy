@@ -11,5 +11,7 @@ $(document).ready(function () {
                 $('a:nth-child(' + i + ')').next().fadeOut();
             }
         }
+        $("#suchlist").attr("href", "https://www.suchlist.com/index.php?page=search&sPriceMax=" + $('input').val() + "&sOrder=i_price&iOrderType=desc")
+        $("#suchlist-price").html("under " + $('input').val() + " doge")
     });
 });
