@@ -19,7 +19,7 @@ strong {
     top: 130px;
     padding-bottom: 50px;
 }
-input {
+input, select{
     -moz-appearance: none;
     -webkit-appearance: none;
     height: 45px;
